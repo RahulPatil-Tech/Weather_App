@@ -19,3 +19,6 @@ Here, comes the part where we add functionality to our code. This part is the mo
 
 <br><b>5. Coding the GUI (frontend elements)</br></b>
 We now start to code the elements as per the GUI, for heading, text, labels, buttons, etc.
+
+<br><b>Output</br></b>
+![Screenshot 2023-05-30 111603](https://github.com/RahulPatil-Tech/Weather_App/assets/81096780/36dd0004-fc07-4e0e-964f-fe2586784468)
